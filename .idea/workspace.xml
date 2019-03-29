@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6b7feac-d978-4819-ba59-edc52df7db39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JC_Professional.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_1/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_1/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_1/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_1/MainGeneric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_1/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Lesson_1/Apple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Lesson_1/Box.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Lesson_1/Fruit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Lesson_1/MainGeneric.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Lesson_1/Orange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <manually-removed-from-ignored>
       <directory path="$PROJECT_DIR$/out/" />
@@ -104,6 +88,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -257,12 +246,20 @@
       <workItem from="1553796881673" duration="14396000" />
       <workItem from="1553857726610" duration="18431000" />
       <workItem from="1553876463438" duration="6521000" />
-      <workItem from="1553883033674" duration="958000" />
+      <workItem from="1553883033674" duration="1634000" />
     </task>
+    <task id="LOCAL-00001" summary="Задания выполнены. Задания 1 и 2 в MainGeneric, 3 в Box. Некоторое затруднение вызвал метод getWeight().">
+      <created>1553884387350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553884387350</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40306000" />
+    <option name="totallyTimeSpent" value="40982000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -310,6 +307,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Задания выполнены. Задания 1 и 2 в MainGeneric, 3 в Box. Некоторое затруднение вызвал метод getWeight()." />
+    <option name="LAST_COMMIT_MESSAGE" value="Задания выполнены. Задания 1 и 2 в MainGeneric, 3 в Box. Некоторое затруднение вызвал метод getWeight()." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
