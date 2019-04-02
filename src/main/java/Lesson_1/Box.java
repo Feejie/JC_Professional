@@ -24,6 +24,7 @@ public class Box<T extends Fruit> {
         return contentList;
     }
 
+    // Вес коробки
     public float getWeight() {
         if (!contentList.isEmpty()) {
             weight = contentList.size() * contentList.get(0).getWeight();

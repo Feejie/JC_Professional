@@ -33,6 +33,7 @@ public class MainGeneric<T> {
         arr[index2] = obj;
     }
 
+    // Тот же массив в лист
     public void toList() {
         arrayList.addAll(Arrays.asList(arr));
     }
