@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox fx:id="vBox" fx:controller="NetChat.client.ControllerSeconds" xmlns:fx="http://javafx.com/fxml" alignment="center">
+
+<!--    <HBox VBox.vgrow="ALWAYS">-->
+<!--        <VBox HBox.hgrow="ALWAYS">-->
+
+<!--            &lt;!&ndash;            <ScrollPane fx:id="vBoxPane">&ndash;&gt;-->
+<!--            <VBox fx:id="vBoxArea" VBox.vgrow="ALWAYS"/>-->
+<!--            &lt;!&ndash;            </ScrollPane>&ndash;&gt;-->
+
+<!--            <HBox fx:id="bottomPanel" managed="false" visible="false">-->
+<!--                <TextField fx:id="textField" onAction="#sendPrivateMsg" HBox.hgrow="ALWAYS" promptText="Введите сообщение.."/>-->
+<!--                <Button fx:id="btn1" text="Send √" onAction="#sendPrivateMsg"/>-->
+<!--            </HBox>-->
+<!--        </VBox>-->
+<!--    </HBox>-->
+</VBox>
