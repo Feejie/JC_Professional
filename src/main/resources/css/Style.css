@@ -1,0 +1,27 @@
+#btn1 {
+    -fx-background-color: #e0e0e0;
+    -fx-font-color: red;
+}
+
+#btn1:hover {
+    -fx-background-color: #bdbdbd;
+}
+
+#vBox {
+    -fx-background-image: url("hengehog_origin.jpg");
+    -fx-background-repeat: repeat;
+}
+
+#vBoxArea {
+    -fx-background-color: white;
+    -fx-opacity: 0.92;
+}
+
+#vBoxPane {
+    -fx-background-color: white;
+    -fx-opacity: 0.92;
+}
+
+#textField {
+    -fx-background-color: #f5f5f5;
+}
