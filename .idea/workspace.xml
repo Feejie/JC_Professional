@@ -2,29 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6b7feac-d978-4819-ba59-edc52df7db39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_2/MainStaff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NetChat/client/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NetChat/client/ControllerSeconds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NetChat/client/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NetChat/client/MiniStage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NetChat/server/AuthService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NetChat/server/ClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NetChat/server/MainServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NetChat/server/StartServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/css/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/css/hengehog_origin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/secondWindow.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staffDB.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userDB.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Dop/ConsoleClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Dop/ConsoleServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Dop/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Files/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Files/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Files/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Files/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Files/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Files/Combi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Files/RedHood.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/Files/toByte.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/MainTask/MainIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_3/MainTask/Reader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_1/Apple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_1/Box.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_1/Fruit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/MainGeneric.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_1/MainGeneric.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Lesson_1/Orange.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson_1/Orange.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/classes/" />
     <manually-removed-from-ignored>
@@ -42,81 +35,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/MainTask/MainExamples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2084">
+              <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/NetChat/server/ClientHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/MainTask/MainIO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="50" column="51" lean-forward="true" selection-start-line="50" selection-start-column="51" selection-end-line="50" selection-end-column="51" />
+            <state relative-caret-position="84">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
               <folding>
-                <element signature="e#834#5122#0" expanded="true" />
-                <element signature="e#5121#5122#0" expanded="true" />
-                <element signature="e#5486#5487#0" expanded="true" />
-                <element signature="e#5518#5519#0" expanded="true" />
-                <element signature="e#5426#5427#0" expanded="true" />
-                <element signature="e#5451#5452#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <marker date="1554633917535" expanded="true" signature="2309:2418" ph="..." />
+                <marker date="1554633917535" expanded="true" signature="2489:2616" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/NetChat/client/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/Files/Combi.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/Dop/Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            <state relative-caret-position="220">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/sample.fxml">
-          <provider editor-type-id="JavaFX-Scene-Builder" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="35" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/NetChat/client/Controller.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="126" column="89" lean-forward="true" selection-start-line="126" selection-start-column="89" selection-end-line="126" selection-end-column="89" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2366#5017#0" expanded="true" />
-                <element signature="e#4179#4510#0" expanded="true" />
-                <element signature="e#4509#4510#0" expanded="true" />
-                <element signature="e#5016#5017#0" expanded="true" />
-                <element signature="e#6156#6157#0" expanded="true" />
-                <element signature="e#5539#6022#0" expanded="true" />
-                <element signature="e#6021#6022#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/secondWindow.fxml">
-          <provider editor-type-id="JavaFX-Scene-Builder" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="22" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/NetChat/client/ControllerSeconds.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="104" column="29" selection-start-line="104" selection-start-column="29" selection-end-line="104" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -135,7 +92,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Lesson_1" />
       </map>
     </option>
   </component>
@@ -147,7 +104,6 @@
         <option value="$PROJECT_DIR$/src/main/java/Lesson_1/Apple.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson_1/Orange.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson_1/Box.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson_2/StaffMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson_2/MainDB.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson_2/MainStaff.java" />
@@ -161,6 +117,21 @@
         <option value="$PROJECT_DIR$/src/main/resources/secondWindow.fxml" />
         <option value="$PROJECT_DIR$/src/main/java/NetChat/client/Controller.java" />
         <option value="$PROJECT_DIR$/src/main/java/NetChat/server/ClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson_3/MainExamples.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Files/toByte.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Files/1.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Files/2.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Files/3.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Files/4.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Files/5.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Files/Combi.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Files/RedHood.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson_3/MainTask/Reader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Dop/ConsoleClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Dop/ConsoleServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Dop/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson_3/MainTask/MainIO.java" />
       </list>
     </option>
   </component>
@@ -172,10 +143,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="584" />
-    <option name="y" value="193" />
-    <option name="width" value="1287" />
-    <option name="height" value="855" />
+    <option name="x" value="1000" />
+    <option name="y" value="401" />
+    <option name="width" value="912" />
+    <option name="height" value="647" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -183,6 +154,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,7 +186,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_2" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JC_Professional" type="b2602c69:ProjectViewProjectNode" />
@@ -222,7 +194,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="NetChat" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_3" type="462c0819:PsiDirectoryNode" />
+              <item name="Files" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JC_Professional" type="b2602c69:ProjectViewProjectNode" />
@@ -230,32 +203,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="NetChat" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JC_Professional" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JC_Professional" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="NetChat" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JC_Professional" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JC_Professional" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JC_Professional" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JC_Professional" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_3" type="462c0819:PsiDirectoryNode" />
+              <item name="MainTask" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JC_Professional" type="b2602c69:ProjectViewProjectNode" />
@@ -265,7 +214,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -275,7 +223,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="A:/Downloads/HW(J)/code_chat(2)/lesson7_start_start" />
+    <property name="last_opened_file_path" value="A:/Downloads/HW(J)/27032019(3)/27032019" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -307,13 +255,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_1.Box" />
+  <component name="RunManager" selected="Application.MainIO">
+    <configuration name="ConsoleClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.Dop.ConsoleClient" />
       <module name="JC_Professional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_1.*" />
+          <option name="PATTERN" value="Lesson_3.Dop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,13 +269,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NetChat.client.Main" />
+    <configuration name="ConsoleServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.Dop.ConsoleServer" />
       <module name="JC_Professional" />
-      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules=javafx.controls,javafx.fxml" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NetChat.client.*" />
+          <option name="PATTERN" value="Lesson_3.Dop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,12 +282,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_1.MainGeneric" />
+    <configuration name="MainIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.MainTask.MainIO" />
       <module name="JC_Professional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_1.*" />
+          <option name="PATTERN" value="Lesson_3.MainTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -348,12 +295,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainStaff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_2.MainStaff" />
+    <configuration name="Player" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.Dop.Player" />
       <module name="JC_Professional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_2.*" />
+          <option name="PATTERN" value="Lesson_3.Dop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -361,12 +308,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StartServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NetChat.server.StartServer" />
+    <configuration name="Reader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.MainTask.Reader" />
       <module name="JC_Professional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NetChat.server.*" />
+          <option name="PATTERN" value="Lesson_3.MainTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -375,19 +322,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Box" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.MainGeneric" />
-      <item itemvalue="Application.StartServer" />
-      <item itemvalue="Application.MainStaff" />
+      <item itemvalue="Application.MainIO" />
+      <item itemvalue="Application.Reader" />
+      <item itemvalue="Application.ConsoleServer" />
+      <item itemvalue="Application.ConsoleClient" />
+      <item itemvalue="Application.Player" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.StartServer" />
-        <item itemvalue="Application.MainStaff" />
-        <item itemvalue="Application.Box" />
-        <item itemvalue="Application.MainGeneric" />
+        <item itemvalue="Application.MainIO" />
+        <item itemvalue="Application.ConsoleClient" />
+        <item itemvalue="Application.ConsoleServer" />
+        <item itemvalue="Application.Player" />
+        <item itemvalue="Application.Reader" />
       </list>
     </recent_temporary>
   </component>
@@ -407,7 +354,10 @@
       <workItem from="1553883033674" duration="3924000" />
       <workItem from="1553965830776" duration="103000" />
       <workItem from="1554123566976" duration="10474000" />
-      <workItem from="1554189856673" duration="37297000" />
+      <workItem from="1554189856673" duration="38665000" />
+      <workItem from="1554455825472" duration="32563000" />
+      <workItem from="1554567190387" duration="7966000" />
+      <workItem from="1554620660182" duration="13244000" />
     </task>
     <task id="LOCAL-00001" summary="Задания выполнены. Задания 1 и 2 в MainGeneric, 3 в Box. Некоторое затруднение вызвал метод getWeight().">
       <created>1553884387350</created>
@@ -430,11 +380,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553886313630</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="CRUD задание в Lesson_2, В NetChat задание реализовано частично: история хранится в DB, выводится при авторизации, новому пользователю, но и после переавторизации тоже, к сожалению. Затруднительный момент. &#10;Все еще не доделал ДЗ с последнего урока Java 2: не выполнено отключение по неавторизации после 120 секунд ожидания, приватные сообщения в отдельном окне. Немного не хватает времени, но все добью, все будет.">
+      <created>1554233819251</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554233819251</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91146000" />
+    <option name="totallyTimeSpent" value="146287000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -446,9 +403,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="628" y="242" width="1287" height="855" extended-state="0" />
+    <frame x="1000" y="401" width="912" height="647" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18744907" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21361503" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -457,7 +415,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49903476" visible="true" weight="0.16620499" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49903476" visible="true" weight="0.21400778" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39889196" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -465,9 +423,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32963988" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32825485" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32684824" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50096524" side_tool="true" type="SLIDING" weight="0.32882884" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32548475" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3249027" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -485,7 +443,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Задания выполнены. Задания 1 и 2 в MainGeneric, 3 в Box. Некоторое затруднение вызвал метод getWeight()." />
     <MESSAGE value="Задания 1 и 2 в MainGeneric, 3 в Box. Некоторое затруднение вызвал метод getWeight(), но он рабочий." />
-    <option name="LAST_COMMIT_MESSAGE" value="Задания 1 и 2 в MainGeneric, 3 в Box. Некоторое затруднение вызвал метод getWeight(), но он рабочий." />
+    <MESSAGE value="CRUD задание в Lesson_2, В NetChat задание реализовано частично: история хранится в DB, выводится при авторизации, новому пользователю, но и после переавторизации тоже, к сожалению. Затруднительный момент. &#10;Все еще не доделал ДЗ с последнего урока Java 2: не выполнено отключение по неавторизации после 120 секунд ожидания, приватные сообщения в отдельном окне. Немного не хватает времени, но все добью, все будет." />
+    <option name="LAST_COMMIT_MESSAGE" value="CRUD задание в Lesson_2, В NetChat задание реализовано частично: история хранится в DB, выводится при авторизации, новому пользователю, но и после переавторизации тоже, к сожалению. Затруднительный момент. &#10;Все еще не доделал ДЗ с последнего урока Java 2: не выполнено отключение по неавторизации после 120 секунд ожидания, приватные сообщения в отдельном окне. Немного не хватает времени, но все добью, все будет." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_1/Box.java">
@@ -534,13 +493,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_2/StaffMain.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/NetChat/server/StartServer.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -556,30 +508,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_2/MainDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1479">
-          <caret line="87" column="48" selection-start-line="87" selection-start-column="48" selection-end-line="87" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_2/MainStaff.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/NetChat/client/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -594,14 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/sample.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="35" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -622,6 +546,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NetChat/server/ClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NetChat/client/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sample.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="35" selection-end-column="11" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/secondWindow.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/NetChat/client/ControllerSeconds.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -632,42 +589,197 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/secondWindow.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_2/MainDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="22" selection-end-column="15" />
+        <state relative-caret-position="1479">
+          <caret line="87" column="48" selection-start-line="87" selection-start-column="48" selection-end-line="87" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-273">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/Files/toByte.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/io/BufferedWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="80" column="11" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
+          <folding>
+            <element signature="e#2094#2095#0" expanded="true" />
+            <element signature="e#2142#2143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/Files/2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/Files/3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/Files/4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/Files/5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/Files/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/io/RandomAccessFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/Files/RedHood.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="86" column="62" selection-start-line="86" selection-start-column="62" selection-end-line="86" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/MainTask/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1600#1601#0" expanded="true" />
+            <element signature="e#1642#1643#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/Files/player.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/NetChat/client/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="126" column="89" lean-forward="true" selection-start-line="126" selection-start-column="89" selection-end-line="126" selection-end-column="89" />
+        <state relative-caret-position="1241">
+          <caret line="126" column="89" selection-start-line="126" selection-start-column="89" selection-end-line="126" selection-end-column="89" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2366#5017#0" expanded="true" />
-            <element signature="e#4179#4510#0" expanded="true" />
-            <element signature="e#4509#4510#0" expanded="true" />
-            <element signature="e#5016#5017#0" expanded="true" />
+            <element signature="e#6128#6129#0" expanded="true" />
             <element signature="e#6156#6157#0" expanded="true" />
-            <element signature="e#5539#6022#0" expanded="true" />
-            <element signature="e#6021#6022#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/NetChat/server/ClientHandler.java">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/io/ObjectInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="50" column="51" lean-forward="true" selection-start-line="50" selection-start-column="51" selection-end-line="50" selection-end-column="51" />
+        <state relative-caret-position="316">
+          <caret line="229" column="13" selection-start-line="229" selection-start-column="13" selection-end-line="229" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/Dop/ConsoleServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
           <folding>
-            <element signature="e#834#5122#0" expanded="true" />
-            <element signature="e#5121#5122#0" expanded="true" />
-            <element signature="e#5486#5487#0" expanded="true" />
-            <element signature="e#5518#5519#0" expanded="true" />
-            <element signature="e#5426#5427#0" expanded="true" />
-            <element signature="e#5451#5452#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#933#1787#0" expanded="true" />
+            <element signature="e#1786#1787#0" expanded="true" />
+            <element signature="e#3096#3607#0" expanded="true" />
+            <element signature="e#3606#3607#0" expanded="true" />
+            <element signature="e#2738#2739#0" expanded="true" />
+            <element signature="e#2773#2774#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/Dop/ConsoleClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2798#3425#0" expanded="true" />
+            <element signature="e#3424#3425#0" expanded="true" />
+            <element signature="e#3641#4268#0" expanded="true" />
+            <element signature="e#4267#4268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/MainTask/MainExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2084">
+          <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/Dop/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/Files/Combi.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/MainTask/MainIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1554633917535" expanded="true" signature="2309:2418" ph="..." />
+            <marker date="1554633917535" expanded="true" signature="2489:2616" ph="..." />
           </folding>
         </state>
       </provider>
