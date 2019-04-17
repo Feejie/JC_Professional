@@ -9,5 +9,6 @@
         <module name="JC_Professional" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
   </component>
 </project>
