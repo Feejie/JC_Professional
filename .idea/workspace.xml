@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6b7feac-d978-4819-ba59-edc52df7db39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/AfterSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/BeforeSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/MainAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/MainSquareArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/MainTestHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_7/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_8/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_8/MainTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/classes/" />
@@ -28,57 +23,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_8/MainTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+              <folding>
+                <element signature="e#186#202#0" expanded="true" />
+                <element signature="e#314#321#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#1021#1030#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_7/MainLesson7.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_8/Human.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#651#652#0" expanded="true" />
+                <element signature="e#698#699#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_8/Tree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="629">
-              <caret line="38" selection-start-line="38" selection-end-line="47" selection-end-column="11" />
+              <caret line="37" lean-forward="true" selection-end-line="144" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_7/CheckHomeWork.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_8/Graf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1258">
-              <caret line="74" column="5" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="74" selection-end-column="5" />
+            <state relative-caret-position="136">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#572#580#0" expanded="true" />
+                <element signature="e#119#134#0" expanded="true" />
+                <element signature="e#248#254#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#713#722#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_7/MainTestHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="14" column="195" selection-start-line="14" selection-start-column="195" selection-end-line="14" selection-end-column="195" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Burundukov.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="62" column="73" selection-start-line="62" selection-start-column="73" selection-end-line="62" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Cheburashka.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1036">
-              <caret line="93" column="33" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -97,17 +100,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Lesson_5" />
+        <entry key="$PROJECT_DIR$" value="Lesson_6" />
       </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Files/toByte.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Files/1.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Files/2.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Files/3.txt" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Files/4.txt" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Files/5.txt" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Files/Combi.txt" />
@@ -155,6 +154,10 @@
         <option value="$PROJECT_DIR$/src/main/java/Lesson_7/CheckHomeWork.java" />
         <option value="$PROJECT_DIR$/src/main/java/Burundukov.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson_7/MainTestHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson_8/Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson_8/Graf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson_8/MainTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson_8/Human.java" />
       </list>
     </option>
   </component>
@@ -166,10 +169,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="415" />
-    <option name="y" value="51" />
-    <option name="width" value="1278" />
-    <option name="height" value="984" />
+    <option name="x" value="928" />
+    <option name="y" value="320" />
+    <option name="width" value="1000" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -177,6 +180,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,14 +218,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_7" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainTestHandler">
+  <component name="RunManager" selected="Application.Human">
     <configuration name="Burundukov" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Burundukov" />
       <module name="JC_Professional" />
@@ -279,34 +282,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Human" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_8.Human" />
+      <module name="JC_Professional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainAnnotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson_7.MainAnnotation" />
-      <module name="JC_Professional" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson_7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainLog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_6.MainLog" />
-      <module name="JC_Professional" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson_6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainSquareArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_7.MainSquareArray" />
       <module name="JC_Professional" />
       <extension name="coverage">
         <pattern>
@@ -331,20 +321,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_8.Tree" />
+      <module name="JC_Professional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.MainLog" />
-      <item itemvalue="Application.MainSquareArray" />
       <item itemvalue="Application.Burundukov" />
       <item itemvalue="Application.MainTestHandler" />
       <item itemvalue="Application.MainAnnotation" />
+      <item itemvalue="Application.Tree" />
+      <item itemvalue="Application.Human" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Human" />
+        <item itemvalue="Application.Tree" />
         <item itemvalue="Application.MainTestHandler" />
         <item itemvalue="Application.Burundukov" />
         <item itemvalue="Application.MainAnnotation" />
-        <item itemvalue="Application.MainSquareArray" />
-        <item itemvalue="Application.MainLog" />
       </list>
     </recent_temporary>
   </component>
@@ -382,7 +385,8 @@
       <workItem from="1555682659371" duration="10453000" />
       <workItem from="1555748073402" duration="17633000" />
       <workItem from="1555942977288" duration="168000" />
-      <workItem from="1555943223677" duration="15170000" />
+      <workItem from="1555943223677" duration="16029000" />
+      <workItem from="1556020356959" duration="17130000" />
     </task>
     <task id="LOCAL-00001" summary="Задания выполнены. Задания 1 и 2 в MainGeneric, 3 в Box. Некоторое затруднение вызвал метод getWeight().">
       <created>1553884387350</created>
@@ -440,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555500941243</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Во 2 задании долго воевал с URLClassLoader. В итоге получилось победить, лишь взяв за основу ваш код. Спасибо">
+      <created>1555960143403</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1555960143403</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -476,7 +487,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="291710000" />
+    <option name="totallyTimeSpent" value="309699000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -489,9 +500,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10660981" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1076759" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -500,7 +510,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49903476" visible="true" weight="0.15926327" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49903476" weight="0.27242523" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39889196" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -533,49 +543,10 @@
     <MESSAGE value="Есть сомнение в правильности оформления, но код рабочий." />
     <MESSAGE value="Похоже, нужный функционал достигнут." />
     <MESSAGE value="Кроме задания 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Кроме задания 1" />
+    <MESSAGE value="Во 2 задании долго воевал с URLClassLoader. В итоге получилось победить, лишь взяв за основу ваш код. Спасибо" />
+    <option name="LAST_COMMIT_MESSAGE" value="Во 2 задании долго воевал с URLClassLoader. В итоге получилось победить, лишь взяв за основу ваш код. Спасибо" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/Dop/ConsoleServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#933#1787#0" expanded="true" />
-            <element signature="e#1786#1787#0" expanded="true" />
-            <element signature="e#3096#3607#0" expanded="true" />
-            <element signature="e#3606#3607#0" expanded="true" />
-            <element signature="e#2738#2739#0" expanded="true" />
-            <element signature="e#2773#2774#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/Dop/ConsoleClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2798#3425#0" expanded="true" />
-            <element signature="e#3424#3425#0" expanded="true" />
-            <element signature="e#3641#4268#0" expanded="true" />
-            <element signature="e#4267#4268#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/Dop/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/Files/Combi.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/MainTask/MainExamples.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -849,16 +820,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_7/MainLesson7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="38" selection-start-line="38" selection-end-line="47" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Kotov.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -939,24 +900,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_7/CheckHomeWork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="74" column="5" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="74" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#572#580#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Cheburashka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1036">
-          <caret line="93" column="33" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Burundukov.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
@@ -964,12 +907,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_7/MainTestHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Cheburashka.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="14" column="195" selection-start-line="14" selection-start-column="195" selection-end-line="14" selection-end-column="195" />
+        <state relative-caret-position="1445">
+          <caret line="93" column="33" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_7/CheckHomeWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="74" column="5" selection-start-line="17" selection-start-column="4" selection-end-line="74" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_7/MainLesson7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="38" selection-start-line="38" selection-end-line="47" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_7/MainTestHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="72" column="35" selection-start-line="72" selection-start-column="35" selection-end-line="72" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_8/Graf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="e#119#134#0" expanded="true" />
+            <element signature="e#248#254#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#713#722#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_8/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" lean-forward="true" selection-end-line="144" />
+          <folding>
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_8/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_8/MainTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="e#186#202#0" expanded="true" />
+            <element signature="e#314#321#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#1021#1030#0" expanded="true" />
           </folding>
         </state>
       </provider>
