@@ -11,19 +11,20 @@ public class MainTree {
         private int entityId;
         private int parentId;
         private String name;
-        LinkedList<Human> adjacent = new LinkedList<Human>();
+        LinkedList<Human> adjacent = new LinkedList<>();
+
         private Human(int id) {
             this.id = id;
         }
     }
 
     private Human getHuman(int id) {
-        return humanLookup.get(id);
+//        return humanLookup.get(id);
 
-//        if(nodeLookup.containsKey(id)) return nodeLookup.get(id);
-//        Node node = new Node(id);
-//        nodeLookup.put(id,Node);
-//        return node;
+        if(humanLookup.containsKey(id)) return humanLookup.get(id);
+        Human human = new Human(id);
+        humanLookup.put(id,human);
+        return human;
     }
 
     public void addEdge(int source, int destination) {

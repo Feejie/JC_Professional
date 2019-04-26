@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6b7feac-d978-4819-ba59-edc52df7db39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_8/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_8/MainTree.java" afterDir="false" />
+    <list default="true" id="e6b7feac-d978-4819-ba59-edc52df7db39" name="Default Changelist" comment="HumanTree - graph human'ов. При добавлении нового хьюмана, он прикрепляется к своему родителю(если таковой есть).">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson_8/HumanTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson_8/MainTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson_8/MainTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/classes/" />
     <ignored path="$PROJECT_DIR$/target/test-classes/" />
@@ -23,17 +23,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_8/MainTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+            <state relative-caret-position="391">
+              <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
               <folding>
-                <element signature="e#186#202#0" expanded="true" />
-                <element signature="e#314#321#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#405#406#0" expanded="true" />
-                <element signature="e#1021#1030#0" expanded="true" />
+                <element signature="e#126#142#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#1020#1029#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_8/HumanTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="49" column="76" selection-start-line="49" selection-start-column="76" selection-end-line="49" selection-end-column="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#873#874#0" expanded="true" />
+                <element signature="e#912#913#0" expanded="true" />
+                <element signature="e#880#881#0" expanded="true" />
+                <element signature="e#925#926#0" expanded="true" />
+                <element signature="e#984#985#0" expanded="true" />
+                <element signature="e#1018#1019#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -42,16 +59,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_8/Human.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="74" selection-start-line="74" selection-end-line="74" />
+            <state relative-caret-position="731">
+              <caret line="43" column="30" lean-forward="true" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#651#652#0" expanded="true" />
-                <element signature="e#698#699#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#779#780#0" expanded="true" />
+                <element signature="e#850#851#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,12 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_8/Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" lean-forward="true" selection-end-line="144" />
-              <folding>
-                <element signature="e#336#337#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="595">
+              <caret line="37" selection-end-line="144" />
             </state>
           </provider>
         </entry>
@@ -75,13 +88,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-              <folding>
-                <element signature="e#119#134#0" expanded="true" />
-                <element signature="e#248#254#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
-                <element signature="e#713#722#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -107,7 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Files/4.txt" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Files/5.txt" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Files/Combi.txt" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson_3/Files/RedHood.txt" />
@@ -156,8 +161,9 @@
         <option value="$PROJECT_DIR$/src/main/java/Lesson_7/MainTestHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson_8/Tree.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson_8/Graf.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Lesson_8/MainTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson_8/Human.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson_8/MainTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson_8/HumanTree.java" />
       </list>
     </option>
   </component>
@@ -168,7 +174,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="928" />
     <option name="y" value="320" />
     <option name="width" value="1000" />
@@ -268,20 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Human">
-    <configuration name="Burundukov" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Burundukov" />
-      <module name="JC_Professional" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.HumanTree">
     <configuration name="Human" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson_8.Human" />
       <module name="JC_Professional" />
@@ -295,12 +288,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainAnnotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_7.MainAnnotation" />
+    <configuration name="HumanTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_8.HumanTree" />
       <module name="JC_Professional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_7.*" />
+          <option name="PATTERN" value="Lesson_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,6 +307,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lesson_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_8.MainTree" />
+      <module name="JC_Professional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,19 +341,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Burundukov" />
       <item itemvalue="Application.MainTestHandler" />
-      <item itemvalue="Application.MainAnnotation" />
       <item itemvalue="Application.Tree" />
       <item itemvalue="Application.Human" />
+      <item itemvalue="Application.MainTree" />
+      <item itemvalue="Application.HumanTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HumanTree" />
+        <item itemvalue="Application.MainTree" />
         <item itemvalue="Application.Human" />
         <item itemvalue="Application.Tree" />
         <item itemvalue="Application.MainTestHandler" />
-        <item itemvalue="Application.Burundukov" />
-        <item itemvalue="Application.MainAnnotation" />
       </list>
     </recent_temporary>
   </component>
@@ -386,7 +392,9 @@
       <workItem from="1555748073402" duration="17633000" />
       <workItem from="1555942977288" duration="168000" />
       <workItem from="1555943223677" duration="16029000" />
-      <workItem from="1556020356959" duration="17130000" />
+      <workItem from="1556020356959" duration="18038000" />
+      <workItem from="1556205890875" duration="598000" />
+      <workItem from="1556290510143" duration="11926000" />
     </task>
     <task id="LOCAL-00001" summary="Задания выполнены. Задания 1 и 2 в MainGeneric, 3 в Box. Некоторое затруднение вызвал метод getWeight().">
       <created>1553884387350</created>
@@ -451,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555960143403</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Во 2 задании долго воевал с URLClassLoader. В итоге получилось победить, лишь приняв во внимание сказанное вами на занятии (компилировать классы в папке java) и немного взял за основу ваш код. Спасибо&#10;UPD: По поводу задания с графом - присутствуют наработки, но пока не закончил.">
+      <created>1556046469138</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1556046469138</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -487,7 +502,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="309699000" />
+    <option name="totallyTimeSpent" value="323131000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -499,9 +514,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="928" y="320" width="1000" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1076759" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21914893" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -510,7 +526,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49903476" weight="0.27242523" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49903476" visible="true" weight="0.2707641" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39889196" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -544,19 +560,11 @@
     <MESSAGE value="Похоже, нужный функционал достигнут." />
     <MESSAGE value="Кроме задания 1" />
     <MESSAGE value="Во 2 задании долго воевал с URLClassLoader. В итоге получилось победить, лишь взяв за основу ваш код. Спасибо" />
-    <option name="LAST_COMMIT_MESSAGE" value="Во 2 задании долго воевал с URLClassLoader. В итоге получилось победить, лишь взяв за основу ваш код. Спасибо" />
+    <MESSAGE value="Во 2 задании долго воевал с URLClassLoader. В итоге получилось победить, лишь приняв во внимание сказанное вами на занятии (компилировать классы в папке java) и немного взял за основу ваш код. Спасибо&#10;UPD: По поводу задания с графом - присутствуют наработки, но пока не закончил." />
+    <MESSAGE value="HumanTree - graph human'ов. При добавлении нового хьюмана, он прикрепляется к своему родителю(если таковой есть)." />
+    <option name="LAST_COMMIT_MESSAGE" value="HumanTree - graph human'ов. При добавлении нового хьюмана, он прикрепляется к своему родителю(если таковой есть)." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/MainTask/MainExamples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_3/MainTask/MainIO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -944,57 +952,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_8/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="37" selection-end-line="144" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_8/Graf.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-          <folding>
-            <element signature="e#119#134#0" expanded="true" />
-            <element signature="e#248#254#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#713#722#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_8/Tree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_8/MainTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" lean-forward="true" selection-end-line="144" />
+        <state relative-caret-position="391">
+          <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
           <folding>
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#126#142#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#1020#1029#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_8/Human.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        <state relative-caret-position="731">
+          <caret line="43" column="30" lean-forward="true" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_8/MainTree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson_8/HumanTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        <state relative-caret-position="272">
+          <caret line="49" column="76" selection-start-line="49" selection-start-column="76" selection-end-line="49" selection-end-column="76" />
           <folding>
-            <element signature="e#186#202#0" expanded="true" />
-            <element signature="e#314#321#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#1021#1030#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#873#874#0" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#880#881#0" expanded="true" />
+            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
           </folding>
         </state>
       </provider>
